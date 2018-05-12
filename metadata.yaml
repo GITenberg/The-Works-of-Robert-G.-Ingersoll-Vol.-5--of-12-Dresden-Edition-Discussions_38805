@@ -1,0 +1,35 @@
+_repo: The-Works-of-Robert-G.-Ingersoll-Vol.-5--of-12-Dresden-Edition-Discussions_38805
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ingersoll, Robert Green
+    aliases:
+    - Ingersoll, Robert G. (Robert Green)
+    - Ingersoll, Bob
+    - Ingersoll, R. G. (Robert Green)
+    birthdate: 1833
+    deathdate: 1899
+    gutenberg_agent_id: '2662'
+    url: http://www.gutenberg.org/2009/agents/2662
+    wikipedia: http://en.wikipedia.org/wiki/Robert_G._Ingersoll
+description: ''
+gutenberg_issued: '2012-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38805'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Free thought'
+tableOfContents: 'Ingersoll''s interviews on Talmage: First interview. Second interview.
+  Third interview. Fourth interview. Fifth interview. Sixth interview -- The Talmagian
+  catechism -- A vindication of Thomas Paine -- The Observer''s second attack -- Ingersoll''s
+  second reply.'
+title: "The Works of Robert G. Ingersoll, Vol. 05 (of 12)\r\nDresden Edition—Discussions"
+url: http://www.gutenberg.org/ebooks/38805
